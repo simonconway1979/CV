@@ -60,7 +60,7 @@ Alkemygold is the market leader in A level performance reports for schools. for 
 **Condaal Ltd** (January 2012 to November 2013)   
 *Business ower*  
 Ran a software accelerator competition looking for companies to partner on software projects
-Delivered a care home management system for a client
+Delivered a care home management system for a client.
 
 **Alkemygold Ltd - educational consultancy** (June 2003 to December 2011)    
 *Deputy CEO*   
