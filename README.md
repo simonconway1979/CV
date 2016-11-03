@@ -43,7 +43,7 @@ I have led several technology projects, and am highly experienced in prioritisin
 
 
 
-## Projects
+## Projects (Update these projects after the course)
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
