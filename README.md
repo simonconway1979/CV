@@ -58,7 +58,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 Alkemygold is the market leader in A level performance reports for schools. for this project I designed, tested and pilotted a new suite of reports for GCSE. This involved data modelling, report design, Excel prototyping, and writing up detailed specifications for the software team. In terms of management I answered to the CEO and was responsible for organising client reviews, focus groups, liaising with educational consutants, manning stands at propotional events, organising the testing team and working with the software team to ensure clear guidance on what was rquired for the project.  
 
 **Condaal Ltd** (January 2012 to November 2013)   
-*Business ower*  
+*Business owner*  
 Ran a software accelerator competition looking for companies to partner on software projects
 Delivered a care home management system for a client.
 
