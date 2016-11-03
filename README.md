@@ -5,11 +5,11 @@
 
 I LOVE software! I mean, I really love it! For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. And applied in the right ways to the right tasks, software is the agent in the world that can make the difference. 
 
-I rolled into software by accident 14 years ago. Working at a small educational consultancy I became embroiled in a highly inefficient report production process. My mind instinctively rails against poor process design and I set about making improvements, first with Excel, then Access and then working with developers.  
+I rolled into software by accident 14 years ago. Working at a small educational consultancy I became embroiled in a highly inefficient report production process. My mind instinctively rails against poor process design and I set about making improvements, first with Excel, then Access and then working on a coded solution with developers.  
 
 Since 2002 I've worked in a number of small companies with many highly talented developers on some really interesting projects. I've been involved in project management, business analysis, testing, support. And I've worked alongside colleagues to create fantastic solutions that have made a difference to people's lives. 
 
-Regarding coding, I've always looked on from the outside. I have excelled at providing developers with functional requirements that lead to great end products. But there was a line I did not cross when it came to coding.
+Regarding coding, I've always looked on from the outside. I have consistently provided developers with functional requirements that lead to great end products. But there was a line I did not cross when it came to coding.
 
 I joined Makers Academy because I want to actually build the software. My aim is to use my new skills to work with a team to create something technically outstanding and functionally beautiful that will, in some small way, make the world a better place. 
 
@@ -24,7 +24,7 @@ Whilst at Makers Academy I have maintained a [blog](https://simon-at-makers.ghos
 
 #### Analysis
 
-My years as a Business Analyst have proved brilliant preparation for life as a developer. I am able to turn vague ideas into actionable user stories, and enjoy using these to guide my development process.
+My years as a Business Analyst have proved brilliant preparation for life as a developer. I am able to turn vague ideas into actionable user stories, and enjoy using these to guide my development process. I'm good at discussing with clients what they are doing and understanding their real problems, beyond what they describe. 
 
 I pick up new concepts with ease, and focus on asking the right questions to further my understanding of new ideas. 
 
@@ -54,7 +54,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 ## Experience
 
 **Alkemygold Ltd - educational consultancy** (November 2013 to September 2016)    
-*Project lead - GCSE Value Added reports*  
+*Project manager - GCSE Value Added reports*  
 Alkemygold is the market leader in A level performance reports for schools. for this project I designed, tested and pilotted a new suite of reports for GCSE. This involved data modelling, report design, Excel prototyping, and writing up detailed specifications for the software team. In terms of management I answered to the CEO and was responsible for organising client reviews, focus groups, liaising with educational consutants, manning stands at propotional events, organising the testing team and working with the software team to ensure clear guidance on what was rquired for the project.  
 
 **Condaal Ltd** (January 2012 to November 2013)   
