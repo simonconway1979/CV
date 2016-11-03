@@ -96,7 +96,7 @@ A 16-week intensive development bootcamp, emphasizing:
 
 I am the secretary of my local SVP charity, providing prctical support to the community such as visiting the elderly, sick and housebound.
 
-I enjoy reading non fiction literature that gives a long view of human existance and tries to make some sense of this (Homo Sapiens, Guns, Germs and Steel, Collapse, Capital in the 21 Century, Homo Deus) and books that investigate the current human social, polictical and psychological condition (The Spirit Level, Pathologies of Power, Thinking, Fast and Slow). I also like science fiction and fantasy. \
+I enjoy reading non fiction literature that gives a long view of human existance and tries to make some sense of this (Homo Sapiens, Guns, Germs and Steel, Collapse, Capital in the 21 Century, Homo Deus) and books that investigate the current human social, polictical and psychological condition (The Spirit Level, Pathologies of Power, Thinking, Fast and Slow). I also like science fiction and fantasy.
 
 I enjoy pilates, cycling, running and walking the dog. 
 
