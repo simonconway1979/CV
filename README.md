@@ -5,7 +5,7 @@
 
 I LOVE software! I mean, I really love it! For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. And applied in the right ways to the right tasks, software is the agent in the world that can make the difference. 
 
-I rolled into software by accident 14 years ago. Working at a small educational consultancy I became embroiled in a highly inefficient report production process. My mind instinctively rails against poorly designed processes and I set about making improvements, first with Excel, then Access and then working with developers.  
+I rolled into software by accident 14 years ago. Working at a small educational consultancy I became embroiled in a highly inefficient report production process. My mind instinctively rails against poor process design and I set about making improvements, first with Excel, then Access and then working with developers.  
 
 Since 2002 I've worked in a number of small companies with many highly talented developers on some really interesting projects. I've been involved in project management, business analysis, testing, support. And I've worked alongside colleagues to create fantastic solutions that have made a difference to people's lives. 
 
