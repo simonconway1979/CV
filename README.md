@@ -1,9 +1,10 @@
-## Simon Conway
+# Simon Conway
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://simon-at-makers.ghost.io/)
 
 
-####I LOVE software! 
+
+##I LOVE software! 
 
 For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. Software is currently the most powerful agent of change in the world. Applied thoughtfully, it has the power to make a positive difference.
 
