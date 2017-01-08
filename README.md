@@ -107,11 +107,17 @@ A 16-week intensive development bootcamp, emphasizing:
 ## Training
 
 Scrum master – Level 1 		   Scrum.org
+
 Product Owner – Level 1 		  Scrum.org
+
 Prince 2 – foundation 	    	University of Westminster
+
 Prince 2 - practitioner 		  University of Westminster
+
 Scrum – Practitioner 		     APMG
+
 Communicate with impact 	   Impact Factory
+
 Creative Suite Training		   Academy Class
 
 
