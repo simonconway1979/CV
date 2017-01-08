@@ -3,7 +3,9 @@
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://simon-at-makers.ghost.io/)
 
 
-I LOVE software! For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. And applied in the right ways to the right tasks, software is the agent in the world that can make the difference.
+I LOVE software! 
+
+For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. And applied in the right ways to the right tasks, software is the agent in the world that can make the difference.
 
 14 years ago, I accidentally rolled into software. Working at a small educational consultancy I worked with a highly inefficient report production process. My mind instinctively rails against poor process design and I set about making improvements, first with Excel, then Access and then working on a coded solution with developers.
 
