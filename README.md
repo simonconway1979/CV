@@ -5,13 +5,13 @@
 
 I LOVE software! 
 
-For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. And applied in the right ways to the right tasks, software is the agent in the world that can make the difference.
+For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. Software is currently the most powerful agent of change in the world. Applied thoughtfully, it has the power to make a positive difference.
 
-Since 2002 I’ve worked in several small companies with talented developers on interesting projects. I’ve been involved in project management, business analysis, testing, support. And I’ve worked alongside colleagues to create fantastic solutions that have made a difference to people’s lives.
+Since 2002 I’ve worked in several small companies with talented developers on interesting projects. I’ve been involved in project management, business analysis, testing, support. I’ve worked alongside colleagues to create fantastic solutions that have made a difference to people’s lives.
 
 Regarding coding, I’ve always looked on from the outside. I have consistently provided developers with functional plans that led to great end products. Until now, there was a line I did not cross when it came to coding.
 
-I joined Makers Academy because I want to make the software. This course has reaffirmed my interest in development. I love the challenge, the constant learning, the team work and the sense of achievement. 
+I joined Makers Academy because I want to make the software. This course has confirmed my interest in development. I love the challenge, the constant learning, the team work and the sense of achievement. 
 
 My aim is to use my new skills to work with a team to create something technically outstanding and functionally beautiful that will, in some small way, make the world a better place.
 
@@ -21,7 +21,7 @@ My aim is to use my new skills to work with a team to create something technical
 
 #### Communication
 
-I’m a strong communicator. In previous roles I’ve worked led focus groups, done presentations to executives, run workshops, organised sprint teams, run support seminars. I’ve worked with employees and clients at all levels of business. I have a talent for understanding technical issues and formulating technical solutions and then communicating these to non-technical managers or clients in a way that they can buy into.
+I’m a strong communicator. In previous roles I’ve worked led focus groups, done presentations to executives, run workshops, organised agile teams, run support seminars. I’ve worked with employees and clients at all levels of business. I have a talent for understanding technical issues and formulating technical solutions and then communicating these to non-technical managers or clients in a way that they can buy into.
 
 During the course, I enjoyed leading team retrospectives to help the team reflect and learn from our sprints. 
 
@@ -30,7 +30,7 @@ Here is a blog I wrote about my time at Maker’s Academy https://simon-at-maker
 
 #### Analysis
 
-In previous roles I have worked as a business analyst. This is good preparation for life as a developer. I can turn vague ideas into actionable user stories, and enjoy using these to guide my development process. I’m good at discussing projects clients and understanding their real challenges, beyond what they describe.
+In previous roles I have worked as a business analyst. This is good preparation for life as a developer. I can turn vague ideas into actionable user stories, and enjoy using these to guide my development process. I’m good at discussing projects with clients and understanding their real issues, beyond what they describe.
 
 #### Team work
 
@@ -60,6 +60,8 @@ Alkemygold is the market leader in A level performance reports for schools. For 
 Technically, this involved data modelling, report design, Excel prototyping, and writing up detailed specifications for the software team. 
 
 On the business management side, I answered to the CEO and was responsible for client management, organising focus groups, liaising with educational consultants, promoting at conferences, organising the testing team and agreeing specifications with the software team.
+
+This has been a very successful project for the company, opening a large new revenue stream. 
  
 
 **Condaal Ltd** (January 2012 to November 2013)   
@@ -73,7 +75,7 @@ Delivered a care home management system for a client.
 *Deputy CEO*   
 
 In 2003 I joined my father in his new educational consultancy business that he started in 2001.
-At first it was just the two of us. Today the business has grown to 35 employees and a turnover of £3m.
+At first it was just the two of us. Today the business has grown to 35 employees, heathly profits and a turnover above £3m.
 
 Over the years I had a wide range of roles and responsibilities. The largest of these was software and product development which has been an important factor in the continued growth of the company. This is where I grew to love software development and project management.
 
@@ -104,13 +106,13 @@ A 16-week intensive development bootcamp, emphasizing:
 
 ## Training
 
-Scrum master – Level 1 		Scrum.org
-Product Owner – Level 1 		Scrum.org
-Prince 2 – foundation 		University of Westminster
-Prince 2 - practitioner 		University of Westminster
-Scrum – Practitioner 		APMG
-Communicate with impact 	Impact Factory
-Creative Suite Training		Academy Class
+Scrum master – Level 1 		   Scrum.org
+Product Owner – Level 1 		  Scrum.org
+Prince 2 – foundation 	    	University of Westminster
+Prince 2 - practitioner 		  University of Westminster
+Scrum – Practitioner 		     APMG
+Communicate with impact 	   Impact Factory
+Creative Suite Training		   Academy Class
 
 
 ## Further interests
