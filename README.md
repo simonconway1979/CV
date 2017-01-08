@@ -7,11 +7,9 @@ I LOVE software!
 
 For me, software is the art of the possible. It allows us to do things we could not even dream a generation ago. And applied in the right ways to the right tasks, software is the agent in the world that can make the difference.
 
-14 years ago, I accidentally rolled into software. Working at a small educational consultancy I worked with a highly inefficient report production process. My mind instinctively rails against poor process design and I set about making improvements, first with Excel, then Access and then working on a coded solution with developers.
-
 Since 2002 I’ve worked in several small companies with talented developers on interesting projects. I’ve been involved in project management, business analysis, testing, support. And I’ve worked alongside colleagues to create fantastic solutions that have made a difference to people’s lives.
 
-Regarding coding, I’ve always looked on from the outside. I have consistently provided developers with functional plans that led to great end products. But there was a line I did not cross when it came to coding.
+Regarding coding, I’ve always looked on from the outside. I have consistently provided developers with functional plans that led to great end products. Until now, there was a line I did not cross when it came to coding.
 
 I joined Makers Academy because I want to make the software. This course has reaffirmed my interest in development. I love the challenge, the constant learning, the team work and the sense of achievement. 
 
@@ -61,7 +59,7 @@ Alkemygold is the market leader in A level performance reports for schools. For 
 
 Technically, this involved data modelling, report design, Excel prototyping, and writing up detailed specifications for the software team. 
 
-On the business management side, I answered to the CEO and was responsible for client management, organising focus groups, liaising with educational consultants, manning stands at promotional events, organising the testing team and working with the software team to agree specifications for the project.
+On the business management side, I answered to the CEO and was responsible for client management, organising focus groups, liaising with educational consultants, promoting at conferences, organising the testing team and agreeing specifications with the software team.
  
 
 **Condaal Ltd** (January 2012 to November 2013)   
@@ -118,15 +116,17 @@ Creative Suite Training		Academy Class
 ## Further interests
 
 ####Social justice
-I am the secretary of my local SVP charity, providing practical support to the community such as visiting the elderly, sick and housebound. This is a grass roots way to support my local community. 
+I am the secretary of my local SVP charity, providing practical support such as visiting the elderly, sick and housebound. This is a grass roots way to support my local community. 
 
 I have read several books focussed on social justice including The Spirit Level, Pathologies of Power, Capital in the 21st Century, The Idea of Justice.
 
 ####Hardware
-At Makers Academy I set up a Hardware Meetup group to meet every couple of weeks. I’m keen to learn about hardware and this was a great way to start. I have prototypes some simple projects. 
+At Makers Academy I set up a Hardware Meetup group to meet every couple of weeks. I’m keen to learn about hardware and this was a great way to start. I have prototyped some simple projects. 
 
 ####Reading
-I enjoy reading non-fiction literature that gives a long view of human existence and tries to make some sense of this (Homo Sapiens, Guns, Germs and Steel, Collapse, Capital in the 21 Century, Homo Deus) and books that investigate the current human social, political and psychological condition (The Spirit Level, Pathologies of Power, Thinking, Fast and Slow). I also like science fiction and fantasy.
+I enjoy reading non-fiction literature that gives a long view of human existence and tries to make some sense of this (Homo Sapiens, Guns, Germs and Steel, Collapse, Capital in the 21 Century, Homo Deus) and books that investigate the current human social, political and psychological condition (The Spirit Level, Pathologies of Power). I also like science fiction and fantasy.
+
+I'm fascinated with human perception and the differences between how we percieve the world. I've read books on this (Thinking, fast and slow, Man and His Symbols) and have also read a number of papers on the vividness of visual imagary and how this relates to the way we learn. During Maker's academy I carried out a short survey to understand the visual imagary of my cohort and tried to correlate this with my paired programming experiences. 
 
 ####Exercise
 I enjoy cycling, running, Pilates and walking the dog with my wife.
