@@ -52,8 +52,8 @@ Makerâ€™s Academy emphasizes the importance of community. To support the Makerâ€
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[The Cube](https://github.com/spyAPI/spyAPI) | A hardware project to create an LED cube that is beautful, interactive and fun. | 10 days | Django, Linux, Python, JavaScript, CSS, HTML, Websockets
-[Makers BnB](https://github.com/quizzbuzz/quizzbuzz) | A web app using ruby, erb, psql, datamapper and html/CSS hosted on Heroku. View [here](https://qzbz.herokuapp.com)! | 5 days | ruby, erb, psql, datamapper, html/CSS hosted on Heroku| Rspec, Capybara
+[The Cube](https://github.com/sultanhq/maker_cube) | A hardware project to create an LED cube that is beautful, interactive and fun. | 10 days | Django, Linux, Python, JavaScript, CSS, HTML, Websockets
+[Makers BnB](https://shrouded-sea-19376.herokuapp.com/users/new) | A web app using ruby, erb, psql, datamapper and html/CSS hosted on Heroku. | 5 days | ruby, erb, psql, datamapper, html/CSS hosted on Heroku| Rspec, Capybara
 
 
 ## Experience
